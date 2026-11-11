@@ -1,0 +1,13 @@
+/build/
+/.vs/
+/out/
+/CMakeFiles/
+/CMakeCache.txt
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
